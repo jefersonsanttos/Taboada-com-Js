@@ -1,0 +1,136 @@
+#lousa{
+    height: 610px;
+    width: 850px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+
+
+.titulo{
+    text-align: top;
+    text-align: center;
+    color: #ffffffd3;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 100;
+    
+
+   
+    
+
+}
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.botao{
+        background-color: rgb(255, 247, 247);
+        border: 2px solid;
+        border-radius: 11px;
+        border-color: rgb(10, 9, 9);
+        float: auto;
+        position: absolute;
+        left: 44%;
+	    top: 35%;
+        height: 6%;
+        width: 10%;
+        
+    
+}
+
+#resultado{
+    background-color: rgb(7, 97, 46);
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgb(7, 97, 46);
+    float: auto;
+    position: absolute;
+    left: 46%;
+    top: 44%;
+    
+    
+}
+
+#valor{
+    background-color: rgb(221, 221, 191);
+    width: 10%;
+    height: 3%;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgb(19, 155, 2);
+    float: auto;
+    position: absolute;
+    left: 44%;
+    top: 30%
+
+}
+
+.rodape{
+    color: rgb(247, 247, 241);
+    right: 35%;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 100;
+
+
+}
+
+#whatsapp{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 43%;
+    top: 92%;
+    
+}
+
+.linknumber{
+    width: 60px;
+    height: 60px;
+    position:absolute;
+    right: 40%;
+    top: 190%;
+    float: right;
+    
+}
+
+#email{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 100%;
+    top: 90%;
+}
+
+.linkmail{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 95%;
+    top: 190%;
+    float: right;
+}
+
+#linkedin{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    right: -10%;
+    top: 140%;
+}
+
+.perfil{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    right: -10%;
+    top: 180%;
+    float: right;
+
+}
